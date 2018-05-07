@@ -735,9 +735,9 @@ $(document).ready(function() {
 
   AP.init({
     playList: [{
-      'icon': iconImage,
-      'title': 'Hitman',
-      'file': 'http://incompetech.com/music/royalty-free/mp3-royaltyfree/Hitman.mp3'
+      'icon': 'http://b.vimeocdn.com/ts/333/261/33326120_640.jpg',
+      'title': 'Bohemian Rhapsody',
+      'file': '01 Bohemian Rhapsody.m4a'
     }, {
       'icon': iconImage,
       'title': 'Forever Believe',
