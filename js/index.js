@@ -737,7 +737,7 @@ $(document).ready(function() {
     playList: [{
       'icon': iconImage,
       'title': 'Hitman',
-      'file': 'file:///music_player/01%20Psycho%20(feat.%20Ty%20Dolla%20$ign).mp3'
+      'file': 'http://incompetech.com/music/royalty-free/mp3-royaltyfree/Hitman.mp3'
     }, {
       'icon': iconImage,
       'title': 'Forever Believe',
