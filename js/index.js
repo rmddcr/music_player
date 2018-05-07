@@ -735,9 +735,9 @@ $(document).ready(function() {
 
   AP.init({
     playList: [{
-      'icon': 'http://b.vimeocdn.com/ts/333/261/33326120_640.jpg',
+      'icon': 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4789/4789866_sa.jpg',
       'title': 'Bohemian Rhapsody',
-      'file': '01 Bohemian Rhapsody.m4a'
+      'file': 'https://github.com/rmddcr/music_player/blob/master/01%20Bohemian%20Rhapsody.m4a'
     }, {
       'icon': iconImage,
       'title': 'Forever Believe',
